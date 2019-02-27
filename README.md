@@ -1,1 +1,1 @@
-URL for look: https://userfortestingprojects.github.io/lizaporfolio/
+URL for testing: https://userfortestingprojects.github.io/lizaporfolio/
